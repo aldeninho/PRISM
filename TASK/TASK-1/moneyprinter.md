@@ -47,7 +47,7 @@ The project follows a standard open-source contribution model:
 
 ---
 
-## Reason I Chose 
+## Observation
 
 I selected this project because it combines automation and content creation, which are both highly relevant in today’s digital world.
 One thing I found interesting is how multiple processes like video creation, voice generation, and social media posting are integrated into a single workflow.
